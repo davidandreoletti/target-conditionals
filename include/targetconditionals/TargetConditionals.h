@@ -16,6 +16,7 @@
 namespace targetconditionals {
 
 #include "./targetconditionals/Platforms.h"
+#include "./targetconditionals/TargetMode.h"
 }
 
 #endif // INCLUDE_TARGETCONDITIONALS_H_
