@@ -8,16 +8,8 @@
 #ifndef INCLUDE_TARGETCONDITIONALS_H_
 #define INCLUDE_TARGETCONDITIONALS_H_
 
-/**
- * @namespace targetconditionals 
- *
- * Target specific conditional macros
- */
-namespace targetconditionals {
-
 #include "./targetconditionals/Platforms.h"
 #include "./targetconditionals/TargetMode.h"
-}
 
 #endif // INCLUDE_TARGETCONDITIONALS_H_
 
