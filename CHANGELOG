@@ -1,5 +1,6 @@
 Release 1.1.0f0:
 
+PTCOLCOR-6: Added macro to add 'extern "C"' when compiling a C++ translation unit
 PTCOLCOR-5: Removed namespace keyword to have C/C++ header compatible
 
 Release 1.0.0f0:
