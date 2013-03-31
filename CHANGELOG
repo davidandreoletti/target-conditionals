@@ -1,5 +1,6 @@
 Release 1.1.0f0:
 
+PTCOLCOR-7: Changed header guards to match Google CPP requirements
 PTCOLCOR-6: Added macro to add 'extern "C"' when compiling a C++ translation unit
 PTCOLCOR-5: Removed namespace keyword to have C/C++ header compatible
 

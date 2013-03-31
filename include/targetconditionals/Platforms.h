@@ -7,8 +7,8 @@
 //  Copyright 2012 IO Stark. All rights reserved.
 //
 
-#ifndef INCLUDE_PLATFORMS_H_
-#define INCLUDE_PLATFORMS_H_
+#ifndef INCLUDE_TARGETCONDITIONALS_PLATFORMS_H_
+#define INCLUDE_TARGETCONDITIONALS_PLATFORMS_H_
 
 /* Finds the current platform */
 #if defined(__APPLE__) && defined(__APPLE_CC__)
@@ -42,5 +42,5 @@
 #   define TC_PLATFORMS_PLATFORM_UNKNOWN 1
 #endif
 
-#endif // INCLUDE_PLATFORMS_H_
+#endif // INCLUDE_TARGETCONDITIONALS_PLATFORMS_H_
 
