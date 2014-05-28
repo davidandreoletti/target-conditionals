@@ -5,19 +5,12 @@
 //  Copyright 2012 IO Stark. All rights reserved.
 //
 
-#ifndef INCLUDE_TARGETCONDITIONALS_H_
-#define INCLUDE_TARGETCONDITIONALS_H_
+#ifndef INCLUDE_TARGETCONDITIONALS_TARGETCONDITIONALS_H_
+#define INCLUDE_TARGETCONDITIONALS_TARGETCONDITIONALS_H_
 
-/**
- * @namespace targetconditionals 
- *
- * Target specific conditional macros
- */
-namespace targetconditionals {
-
+#include "./targetconditionals/Extern.h"
 #include "./targetconditionals/Platforms.h"
 #include "./targetconditionals/TargetMode.h"
-}
 
-#endif // INCLUDE_TARGETCONDITIONALS_H_
+#endif // INCLUDE_TARGETCONDITIONALS_TARGETCONDITIONALS_H_
 
